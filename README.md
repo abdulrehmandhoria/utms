@@ -19,9 +19,9 @@ A Command-Line Interface (CLI)-based store management system written in C++. Thi
 
 
 ## Collaborators
-1-abdullah qurbaan 
-2-abdul rehman dhoria
-3-abdul rehman
-4-abdul rehman mohsin
-5-ali hassan
+- 1-abdullah qurbaan 
+- 2-abdul rehman dhoria
+- 3-abdul rehman
+- 4-abdul rehman mohsin
+- 5-ali hassan
 
