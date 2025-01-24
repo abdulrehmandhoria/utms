@@ -16,3 +16,12 @@ A Command-Line Interface (CLI)-based store management system written in C++. Thi
    ```bash
    git clone https://github.com/your-username/store-management-system.git
    cd store-management-system
+
+
+## Collaborators
+1-abdullah qurbaan 
+2-abdul rehman dhoria
+3-abdul rehman
+4-abdul rehman mohsin
+5-ali hassan
+
